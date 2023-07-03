@@ -1,14 +1,21 @@
 # shop
 
-A new Flutter project.
+Projeto Flutter usando o gerenciador de estado do provedor.
 
 ## Getting Started
 
-This project is a store app. In it we will present the management of states with provader
+This app initially has four items in the store. In it we can favorite, add the order to the affection and see the details of the order.
+In the cart screen we can see the added items and buy them.
+No bar menu can go to home screen or see all orders placed.
+
+The used state manager was the provader
 
 
+Current version:
 
-https://user-images.githubusercontent.com/9625556/184780657-2a2f7da6-681d-4e87-8792-f2e120aca3a6.mp4
+https://github.com/JamileFerreira/shop/assets/9625556/80bc3926-eaf2-4fd3-a1d6-51b63d632dc8
+
+
 
 
 
